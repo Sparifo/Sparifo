@@ -29,7 +29,7 @@
 </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/sparifo/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparifo" alt="sparifo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparifo" alt="sparifo" /></a> </p>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sparifo&theme=dracula&hide_border=true)
